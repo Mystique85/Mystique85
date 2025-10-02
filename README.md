@@ -5,12 +5,11 @@ Always curious, always learning 🚀
 
 ---
 
-## 🌐 Socials & Web3  
+## 🌐 Socials & WEB
 
-[<img src="https://unavatar.io/twitter/AirdropsXPay" height="60" style="border-radius:50%"/>](https://x.com/AirdropsXPay)  
-[<img src="https://unavatar.io/farcaster/mysticpol.eth" height="60" style="border-radius:50%"/>](https://farcaster.xyz/mysticpol.eth)  
-[<img src="https://unavatar.io/discord/6sMKzMMH8J" height="60" style="border-radius:50%"/>](https://discord.gg/6sMKzMMH8J)  
-[<img src="https://unavatar.io/eth/mysticpol.eth" height="60" style="border-radius:50%"/>](https://app.ens.domains/name/mysticpol.eth)  
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter\&logoColor=white)](https://x.com/AirdropsXPay)
+[![Farcaster](https://img.shields.io/badge/Farcaster-7B3FE4?logo=farcaster\&logoColor=white)](https://farcaster.xyz/mysticpol.eth)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord\&logoColor=white)](https://discord.gg/6sMKzMMH8J)
 
 ![ENS](https://img.shields.io/badge/ENS-mysticpol.eth-blue?logo=ethereum)  
 
