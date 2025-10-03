@@ -3,7 +3,7 @@
 ⭐ Blockchain enthusiast | Web3 & full-stack developer 🚀 ⭐ Exploring smart contracts, decentralized apps, and Open Source 🌐
 </p>
 
-<!-- Typing effect -->
+<!-- Typing effect for welcome message -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
@@ -67,6 +67,24 @@ Always curious, always learning 🚀
 ## 🔗 Fun Fact
 
 ⚡ I love building apps that combine **Web2 & Web3 worlds** ✨
+
+---
+
+## 💡 Interact with My Projects
+
+<p align="center">
+  <img src="https://github.com/Mystique85.png" alt="My Token" width="100" height="100"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey+there!+If+you+enjoy+my+projects,+you+can+help+build+activity+on+the+Base+network+and+interact+with+my+token+on+Zora!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://zora.co/coin/base:0xeccd510373f6fa6faf3396bb49f4583bd8581e46?referrer=0x0951e32fab53104445413ac52d3">
+    <img src="https://img.shields.io/badge/Explore%20Token-Zora-FF5A5F?style=for-the-badge" alt="Zora Token"/>
+  </a>
+</p>
 
 ---
 
