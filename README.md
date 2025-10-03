@@ -77,11 +77,15 @@ Always curious, always learning 🚀
 </p>
 
 <p align="center">
+  <strong>AirBase $AIRB</strong>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey+there!+If+you+enjoy+my+projects,+you+can+help+build+activity+on+the+Base+network+and+interact+with+my+token+on+Zora!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://zora.co/coin/base:0xeccd510373f6fa6faf3396bb49f4583bd8581e46?referrer=0x0951e32fab53104445413ac52d3">
+  <a href="https://zora.co/coin/base:0xeccd510373f6fa6faf3396bb49f4583bd8581e46?referrer=0x0951e32fab53104445413acb1e7c731f33ac52d3">
     <img src="https://img.shields.io/badge/Explore%20Token-Zora-FF5A5F?style=for-the-badge" alt="Zora Token"/>
   </a>
 </p>
