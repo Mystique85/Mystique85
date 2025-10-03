@@ -1,6 +1,16 @@
+<!-- Static text in one line -->
+<p align="center">
+⭐ Blockchain enthusiast | Web3 & full-stack developer 🚀 ⭐ Exploring smart contracts, decentralized apps, and Open Source 🌐
+</p>
+
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
 # Hi there 👋
 
-I am a **full-stack web developer** passionate about building modern web applications and exploring **Web3** technologies.
+I am a **full-stack web developer** passionate about building modern web applications and exploring **Web3** technologies.  
 Always curious, always learning 🚀
 
 ---
@@ -12,7 +22,6 @@ Always curious, always learning 🚀
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord\&logoColor=white)](https://discord.gg/6sMKzMMH8J)
 
 ![ENS](https://img.shields.io/badge/ENS-mysticpol.eth-blue?logo=ethereum)  
-
 
 ---
 
@@ -32,21 +41,26 @@ Always curious, always learning 🚀
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mystique85\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mystique85\&theme=radical\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystique85\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mystique85&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystique85&theme=radical&hide_border=false" height="160" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Mystique85\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mystique85&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
