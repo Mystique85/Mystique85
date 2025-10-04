@@ -85,7 +85,7 @@ Always curious, always learning 🚀
 </p>
 
 <p align="center">
-  <a href="https://zora.co/coin/base:0xeccd510373f6fa6faf3396bb49f4583bd8581e46?referrer=0x0951e32fab53104445413acb1e7c731f33ac52d3">
+  <a href="https://farcoins.xyz/token/mysticpol.eth ">
     <img src="https://img.shields.io/badge/Explore%20Token-Zora-FF5A5F?style=for-the-badge" alt="Zora Token"/>
   </a>
 </p>
