@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-# Hi there 👋
-
-I am a **full-stack web developer** passionate about building modern web applications and exploring **Web3** technologies.  
-Always curious, always learning 🌱
-
 ---
 
 ## 🌐 Socials & WEB
@@ -24,10 +19,8 @@ Always curious, always learning 🌱
 ![ENS](https://img.shields.io/badge/ENS-mysticpol.eth-blue?logo=ethereum)
 
 ---
-<h2 align="center">🌐 On-Chain Projects & DApps</h2>
 
-
-
+<h2 align="center">On-Chain Projects & DApps</h2>
 
 <p align="center">
   <em>Explore my on-chain experiments and decentralized tools — built with curiosity and purpose.</em>
@@ -37,7 +30,7 @@ Always curious, always learning 🌱
 
 <!-- PROJECT 1: HUB ECOSYSTEM -->
 <div align="center">
-  <h3>🌐 HUB Ecosystem Project (Base Mainnet)</h3>
+  <h3>HUB Ecosystem Project (Base Mainnet)</h3>
   <img src="https://raw.githubusercontent.com/Mystique85/HUB-Ecosystem-Project/main/assets/token.icon.png" alt="HUB Token Logo" width="100" height="100"/>
 
   <p>
@@ -50,10 +43,15 @@ Always curious, always learning 🌱
     🧾 <a href="https://basescan.org/address/0x58EFDe38eF2B12392BFB3dc4E503493C46636B3E" target="_blank" rel="noopener noreferrer">Verified Contract</a>
   </p>
 
+  <p>
+    🐦 <em>Follow project updates on X:</em><br/>
+    <a href="https://x.com/BaseEngageHub" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/@BaseEngageHub-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="BaseEngageHub X"/>
+    </a>
+  </p>
+
   <em>💡 A self-governing, community-powered Layer 2 ecosystem — explore, build, and grow with HUB.</em>
 </div>
-
-
 
 <br/>
 
@@ -72,18 +70,24 @@ Always curious, always learning 🌱
   </p>
 
   <p>
-    🔗 <a href="https://mystique85.github.io/HelloCelo/">Try the DApp</a> |
-    🧾 <a href="https://celo.blockscout.com/address/0x88Fd392bC4d948DaD1d27B73cad89fF34507EA9B?tab=contract">Verified Contract</a> |
-    💻 <a href="https://github.com/Mystique85/HelloCelo">GitHub Repo</a>
+    🔗 <a href="https://mystique85.github.io/HelloCelo/" target="_blank" rel="noopener noreferrer">Try the DApp</a> |
+    🧾 <a href="https://celo.blockscout.com/address/0x88Fd392bC4d948DaD1d27B73cad89fF34507EA9B?tab=contract" target="_blank" rel="noopener noreferrer">Verified Contract</a> |
+    💻 <a href="https://github.com/Mystique85/HelloCelo" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+  </p>
+
+  <p>
+    🐦 <em>Follow project updates on X:</em><br/>
+    <a href="https://x.com/HelloCelo_HC" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/@HelloCelo_HC-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="HelloCelo X"/>
+    </a>
   </p>
 
   <em>💡 Feedback and testing are welcome — this DApp will evolve with community input!</em>
 </div>
 
 <br/>
-  <!-- Typing effect for activity message -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=You+can+help+build+activity+on+Base+%26+Celo!" alt="Typing SVG" />
-</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=You+can+help+build+activity+on+Base+%26+Celo!" alt="Typing SVG" />
 
 ---
 
