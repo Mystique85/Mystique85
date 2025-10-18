@@ -26,64 +26,21 @@
   <em>Explore my on-chain experiments and decentralized tools — built with curiosity and purpose.</em>
 </p>
 
-<br/>
-
-<!-- PROJECT 1: HUB ECOSYSTEM -->
 <div align="center">
-  <h3>HUB Ecosystem Project (Base Mainnet)</h3>
-  <img src="https://raw.githubusercontent.com/Mystique85/HUB-Ecosystem-Project/main/assets/token.icon.png" alt="HUB Token Logo" width="100" height="100"/>
-
-  <p>
-    <strong>HUB Ecosystem (HUB)</strong> — a decentralized, autonomous Web3 economy built on <b>Base Mainnet (Layer 2 Ethereum)</b>.<br/>
-    The HUB token powers governance, liquidity, and rewards — designed for self-sustainability and transparency.
-  </p>
-
-  <p>
-    🔗 <a href="https://github.com/Mystique85/HUB-Ecosystem-Project" target="_blank" rel="noopener noreferrer">GitHub Repository</a> |
-    🧾 <a href="https://basescan.org/address/0x58EFDe38eF2B12392BFB3dc4E503493C46636B3E" target="_blank" rel="noopener noreferrer">Verified Contract</a>
-  </p>
-
-  <p>
-    🐦 <em>Follow project updates on X:</em><br/>
-    <a href="https://x.com/BaseEngageHub" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/@BaseEngageHub-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="BaseEngageHub X"/>
-    </a>
-  </p>
-
-  <em>💡 A self-governing, community-powered Layer 2 ecosystem — explore, build, and grow with HUB.</em>
+  <ul style="list-style: none; padding: 0;">
+    <li>
+      <strong>HUB Ecosystem Project</strong> — <a href="https://github.com/Mystique85/HUB-Ecosystem-Project">GitHub</a> | <a href="https://basescan.org/address/0x58EFDe38eF2B12392BFB3dc4E503493C46636B3E">Verified Contract</a>
+    </li>
+    <li>
+      <strong>HelloCelo DApp</strong> — <a href="https://mystique85.github.io/HelloCelo/">Try DApp</a> | <a href="https://celo.blockscout.com/address/0x88Fd392bC4d948DaD1d27B73cad89fF34507EA9B?tab=contract">Verified Contract</a>
+    </li>
+    <li>
+      <strong>HelloVote DApp</strong> — <a href="https://github.com/Mystique85/hello-vote">GitHub</a> | <a href="https://celoscan.io/address/0xd12B01c658c4B563ACaDfC84997ea8270afdDd64#code">Verified Contract</a>
+    </li>
+    <!-- Add new projects here -->
+  </ul>
 </div>
 
-<br/>
-
-<hr style="height: 2px; border: none; background: linear-gradient(to right, #35D07F, #00A86B, #35D07F);" />
-
-<br/>
-
-<!-- PROJECT 2: HELLOCELO -->
-<div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Mystique85/HelloCelo/main/logohellocelo.png" alt="Celo Logo" width="22"/> HelloCelo DApp (Celo Mainnet)</h3>
-  <img src="https://raw.githubusercontent.com/Mystique85/HelloCelo/main/logohellocelo.png" alt="HelloCelo Logo" width="80" height="80"/>
-
-  <p>
-    A simple decentralized application built on <b>Celo Mainnet</b> that lets users view and send messages directly on-chain.<br/>
-    Connect with MetaMask, Rabby, or Celo Wallet and leave your message to become part of the chain.
-  </p>
-
-  <p>
-    🔗 <a href="https://mystique85.github.io/HelloCelo/" target="_blank" rel="noopener noreferrer">Try the DApp</a> |
-    🧾 <a href="https://celo.blockscout.com/address/0x88Fd392bC4d948DaD1d27B73cad89fF34507EA9B?tab=contract" target="_blank" rel="noopener noreferrer">Verified Contract</a> |
-    💻 <a href="https://github.com/Mystique85/HelloCelo" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-  </p>
-
-  <p>
-    🐦 <em>Follow project updates on X:</em><br/>
-    <a href="https://x.com/HelloCelo_HC" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/@HelloCelo_HC-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="HelloCelo X"/>
-    </a>
-  </p>
-
-  <em>💡 Feedback and testing are welcome — this DApp will evolve with community input!</em>
-</div>
 
 <br/>
 
