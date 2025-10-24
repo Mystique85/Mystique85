@@ -20,27 +20,15 @@
 
 ---
 
-<h2 align="center">On-Chain Projects & DApps</h2>
+## 🚀 On-Chain Projects & DApps
 
-<p align="center">
-  <em>Explore my on-chain experiments and decentralized tools — built with curiosity and purpose.</em>
-</p>
+• **HUB Ecosystem Project** | 🔵 Base | [GitHub](https://github.com/Mystique85/HUB-Ecosystem-Project)
 
-<div align="center">
-  <ul style="list-style: none; padding: 0;">
-    <li>
-      <strong>HUB Ecosystem Project</strong> — <a href="https://github.com/Mystique85/HUB-Ecosystem-Project">GitHub</a> | <a href="https://basescan.org/address/0x58EFDe38eF2B12392BFB3dc4E503493C46636B3E">Verified Contract</a>
-    </li>
-    <li>
-      <strong>HelloCelo DApp</strong> — <a href="https://mystique85.github.io/HelloCelo/">Try DApp</a> | <a href="https://celo.blockscout.com/address/0x88Fd392bC4d948DaD1d27B73cad89fF34507EA9B?tab=contract">Verified Contract</a>
-    </li>
-    <li>
-      <strong>HelloVote DApp</strong> — <a href="https://github.com/Mystique85/hello-vote">GitHub</a> | <a href="https://celoscan.io/address/0xd12B01c658c4B563ACaDfC84997ea8270afdDd64#code">Verified Contract</a>
-    </li>
-    <!-- Add new projects here -->
-  </ul>
-</div>
+• **GM DApp Hub Ecosystem** | 🌐 Multi-chain | [GitHub](https://github.com/Mystique85/GMDapp-HubEcosystem) | [APP](https://gm-dapp-hub-ecosystem.vercel.app/)
 
+• **Hello Celo App** | 🟡 Celo | [GitHub](https://github.com/Mystique85/HelloCelo) | [APP](https://mystique85.github.io/HelloCelo/)
+
+• **HelloVote App** | 🟡 Celo | [GitHub](https://github.com/Mystique85/hello-vote) | [APP](https://mystique85.github.io/hello-vote/)
 
 <br/>
 
