@@ -22,13 +22,13 @@
 
 ## 🚀 On-Chain Projects & DApps
 
-• **HUB Ecosystem Project** | 🔵 Base | [GitHub](https://github.com/Mystique85/HUB-Ecosystem-Project)
+• **HUB Ecosystem Project** | 🔵 Base | [GitHub Repository](https://github.com/Mystique85/HUB-Ecosystem-Project) | [Website](https://hubecosystem-portal.vercel.app/)
 
-• **GM DApp Hub Ecosystem** | 🌐 Multi-chain | [GitHub](https://github.com/Mystique85/GMDapp-HubEcosystem) | [APP](https://gm-dapp-hub-ecosystem.vercel.app/)
+• **GM DApp Hub Ecosystem** | 🌐 Multi-chain | [GitHub Repository](https://github.com/Mystique85/GMDapp-HubEcosystem) | [App](https://gm-dapp-hub-ecosystem.vercel.app/)
 
-• **Hello Celo App** | 🟡 Celo | [GitHub](https://github.com/Mystique85/HelloCelo) | [APP](https://mystique85.github.io/HelloCelo/)
+• **Hello Celo App** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/HelloCeloV2) | [App](https://hello-celo-v2.vercel.app/)
 
-• **HelloVote App** | 🟡 Celo | [GitHub](https://github.com/Mystique85/hello-vote) | [APP](https://mystique85.github.io/hello-vote/)
+• **Hello Vote App** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/hello-vote) | [App](https://hello-vote.vercel.app/)
 
 <br/>
 
