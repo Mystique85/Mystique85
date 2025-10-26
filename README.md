@@ -26,7 +26,7 @@
 
 • **GM DApp Hub Ecosystem** | 🌐 Multi-chain | [GitHub Repository](https://github.com/Mystique85/GMDapp-HubEcosystem) | [App](https://gm-dapp-hub-ecosystem.vercel.app/)
 
-• **Hello Celo App** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/HelloCeloV2) | [App](https://hello-celo-v2.vercel.app/)
+• **HUB Portal Chat** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/Hub-Portal-Chat) | [App](https://hub-portal-chat.vercel.app/)
 
 • **Hello Vote App** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/hello-vote) | [App](https://hello-vote.vercel.app/)
 
