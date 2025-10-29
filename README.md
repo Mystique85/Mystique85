@@ -22,7 +22,7 @@
 
 ## 🚀 On-Chain Projects & DApps
 
-• **HUB Ecosystem Project** | 🔵 Base | [GitHub Repository](https://github.com/Mystique85/HUB-Ecosystem-Project) | [Website](https://hubecosystem-portal.vercel.app/)
+• **HUB Ecosystem Website** | 🌐 Multi-chain | [GitHub Repository](https://github.com/Mystique85/HubEcosystem-Portal) | [Website](https://hub-ecosystem-portal.vercel.app/)
 
 • **GM DApp Hub Ecosystem** | 🌐 Multi-chain | [GitHub Repository](https://github.com/Mystique85/GMDapp-HubEcosystem) | [App](https://gm-dapp-hub-ecosystem.vercel.app/)
 
