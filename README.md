@@ -28,7 +28,7 @@
 
 • **HUB Portal Chat** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/Hub-Portal-Chat) | [App](https://hub-portal-chat.vercel.app/)
 
-• **Hello Vote App** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/hello-vote) | [App](https://hello-vote.vercel.app/)
+• **HUB Portal Vote** | 🟡 Celo | [GitHub Repository](https://github.com/Mystique85/Hub-Portal-Vote) | [App](https://hub-portal-vote.vercel.app/)
 
 <br/>
 
